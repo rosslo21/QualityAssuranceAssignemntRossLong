@@ -16,8 +16,7 @@ public class PetShop {
 	 static Scanner scan = new Scanner(System.in); //This creates a scanner object 
 	 public static void main(String args[]) {
 		 
-	   
-		int tennisBalls = 10;
+	    int tennisBalls = 10;
 		int dogFood = 2;
 	 
 	    for(int i = 0 ; i <= tennisBalls && i <= dogFood; i++ ) { //This for loop loops through stock until stock is gone
