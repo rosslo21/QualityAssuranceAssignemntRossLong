@@ -13,6 +13,7 @@ import java.util.Scanner;
 */
 
 public class PetShop {
+	
 	 static Scanner scan = new Scanner(System.in); //This creates a scanner object 
 	 public static void main(String args[]) {
 		 
